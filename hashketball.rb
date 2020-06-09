@@ -1,16 +1,3 @@
-=begin 
-def game_hash
-  top_hash = {
-    :home => {
-      :team_name => "Brooklyn Nets"},
-      {:colors => ["black", "white"]},
-      {:players => [{:players_name => "Alan Anderson"},{:number => 0},{:shoe => 16},{:points => 22},{:rebounds => 12:assists => 12},{:steals => 3},{:blocks => 1},{:slam_dunks => 1}]},
-    :away => {
-      :team_name => "write_team_name"},
-      {:colors => ["write", "teams", "colors"]},
-      {:players => [{:players_name => write_value},{:number => write_value},{:shoe => write_value},{:points => write_value},{:rebounds => write_value},{:assists => write_value},{:steals => write_value},{:blocks => write_value},{:slam_dunks => value}]}
-  }
-=end
 def game_hash
    {:home => {
      :team_name => 'Brooklyn Nets',
